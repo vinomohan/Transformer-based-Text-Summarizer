@@ -17,8 +17,8 @@ An intelligent and interactive document summarization tool powered by transforme
 
 ---
 
-**How It Works
-**
+## How it Works
+
 🔹 Extractive Summarization
 Uses Sentence-BERT embeddings
 Computes cosine similarity matrix between sentences
