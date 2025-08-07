@@ -16,21 +16,15 @@ An intelligent and interactive document summarization tool powered by transforme
 - 🧱 **Responsive UI**: Clean layout with cards, gradient backgrounds, and modern theme
 
 ---
-How It Works
+
+**How It Works
+**
 🔹 Extractive Summarization
 Uses Sentence-BERT embeddings
-
 Computes cosine similarity matrix between sentences
-
 Selects top-N representative sentences (optionally boosted for named entities)
 
 🔹 Abstractive Summarization
 Utilizes pretrained models like T5
-
 Converts text to a summarized version by generating new content
-
-Ideal for large documents and semantic understanding| Type        | Model               | Framework               |
-| ----------- | ------------------- | ----------------------- |
-| Extractive  | Sentence-BERT       | `sentence-transformers` |
-| Abstractive | T5 (e.g., t5-small) | `transformers`          |
-| NLP Parsing | spaCy (NER)         | `spacy`                 |
+Ideal for large documents and semantic understanding|
