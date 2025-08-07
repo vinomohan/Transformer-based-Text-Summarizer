@@ -27,4 +27,4 @@ Selects top-N representative sentences (optionally boosted for named entities)
 🔹 Abstractive Summarization
 Utilizes pretrained models like T5
 Converts text to a summarized version by generating new content
-Ideal for large documents and semantic understanding|
+Ideal for large documents and semantic understanding
